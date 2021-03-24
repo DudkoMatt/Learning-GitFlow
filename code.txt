@@ -1,2 +1,4 @@
 This is the first line of the code
 This is the second line
+
+The Answer to the Ultimate Question of Life, the Universe, and Everything: 42
