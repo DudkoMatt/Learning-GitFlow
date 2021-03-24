@@ -1,6 +1,7 @@
 // Matvey's code
 This is the first line of the code
 This is the second line
+This is the third line of the code  // Forgot to add this line in the release v1.0
 
 The Answer to the Ultimate Question of Life, the Universe, and Everything: 42
 
